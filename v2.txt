@@ -1,0 +1,1 @@
+line 1 --> Learning to add multiple files at a time into the staging area
